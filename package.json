@@ -17,6 +17,7 @@
   "homepage": "https://github.com/ManojaD2004/plain-threejs#readme",
   "description": "",
   "dependencies": {
+    "plainthreejs": "file:",
     "three": "^0.169.0"
   },
   "devDependencies": {
