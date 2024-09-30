@@ -1,0 +1,25 @@
+{
+  "name": "plainthreejs",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManojaD2004/plain-threejs.git"
+  },
+  "author": "Manoja D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManojaD2004/plain-threejs/issues"
+  },
+  "homepage": "https://github.com/ManojaD2004/plain-threejs#readme",
+  "description": "",
+  "dependencies": {
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.8"
+  }
+}
